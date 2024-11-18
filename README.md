@@ -4,6 +4,7 @@
   <h1>Moein Kahanafari</h1>
   
 </div>
+<hr/>
   <h3>My Skills :</h3>
   <br/>
   <br/>
