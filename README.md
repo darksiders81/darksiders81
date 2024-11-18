@@ -11,5 +11,5 @@
   <br/>
   <br/>
 <div align='center'>
-   <img align='center' src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,materialui,nextjs,vite,git,github&perline=4'/>
+   <img width='100' align='center' src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,materialui,nextjs,vite,git,github&perline=5'/>
 </div>
