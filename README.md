@@ -1,3 +1,3 @@
 <div align='center'>
-  <img src='./logo.jpeg'/>
+  <img src='./images.png' height='400'/>
 </div>
