@@ -10,4 +10,6 @@
   <h3>My Skills :</h3>
   <br/>
   <br/>
-  <img align='center' src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,materialui,nextjs,vite,git,github&perline=3'/>
+<div align='center'>
+   <img align='center' src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,materialui,nextjs,vite,git,github&perline=4'/>
+</div>
