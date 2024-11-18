@@ -13,3 +13,7 @@
 <div align='center'>
    <img width='800' align='center' src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,redux,materialui,nextjs,vite,ubuntu,git,github&perline=5'/>
 </div>
+<br/>
+ <br/>
+  <br/>
+<h3>About Me :</h3>
