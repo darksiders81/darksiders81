@@ -2,7 +2,7 @@
 <div align='center'>
   <h2 align='center'>All My Skills : </h2>
   <br/>
-  <img align='center' width='500px' src='https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,sass,bootstrap,jquery,regex,nodejs,express,nest,prisma,python,django,docker,mysql,postman,npm,git,github,vite,vscode,ubuntu,powershell&perline=8' />
+  <img align='center' width='500px' src='https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,nextjs,tailwind,materialui,sass,bootstrap,jquery,regex,nodejs,express,nest,prisma,python,django,docker,mysql,postman,npm,git,github,vite,vscode,ubuntu,powershell&perline=8' />
 </div>
 <br/>
 <br/>
